@@ -20,6 +20,10 @@ public class Main {
     }
 
     private static void operativa_cuenta(CCuenta cuenta1, float cantidad) {
+        /*
+        Pueba con comentario
+        del ejercicio 7 de la tarea 4
+        */
         try {
             cuenta1.retirar(2300);
         } catch (Exception e) {
